@@ -10,9 +10,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://gaurav-agarwal-portfolio.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently developing react apps
 
 - 👯 I’m looking to collaborate for `Projects`
 
