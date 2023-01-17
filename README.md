@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently developing react apps
 
-- 👯 I’m looking to collaborate for `Projects`
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
 
 - 💓 I love designing websites and coding.
