@@ -78,11 +78,11 @@
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=gauravv8090&show_icons=true&hide_border=true&theme=radical" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravv8090&hide_border=true&theme=radical" />
 </div>
- <br /> -->
- <p align="center">
+<!--  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravv8090&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravv8090&hide_border=true&theme=radical" />
-</p>
+</p> -->
+<hr/>
 
 [![Gaurav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauravv8090&theme=redical)](https://github.com/gauravv8090/github-readme-activity-graph)
 <hr />
