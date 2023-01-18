@@ -73,19 +73,19 @@
 
 
 <h2>📊 Github Stats</h2>
-<br/>
+<!-- <br/>
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gauravv8090&show_icons=true&theme=dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravv8090&layout=compact&theme=dark" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=gauravv8090&show_icons=true&hide_border=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravv8090&hide_border=true&theme=radical" />
 </div>
- <br />
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gauravv8090&theme=react-dark" alt="activitygraph&theme=dark" />  -->
-<h2>📊 Activity</h2>
-<br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravv8090&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=gauravv8090&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravv8090&theme=vue" alt="summarycard"/> </p>
+ <br /> -->
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravv8090&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravv8090&hide_border=true&theme=radical" />
+</p>
+
+[![Gaurav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauravv8090&theme=redical)](https://github.com/gauravv8090/github-readme-activity-graph)
 <hr />
 <h3 align="center">
  Show some ❤️ by staring some of the repositories!
