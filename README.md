@@ -73,7 +73,6 @@
 
 
 <h2>📊 Github Stats</h2>
-<!-- <br/>
 
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=gauravv8090&show_icons=true&hide_border=true&theme=radical" />
